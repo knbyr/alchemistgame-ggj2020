@@ -4,6 +4,6 @@ Credits goes to:
 Yakup Emre -
 Ahmet İkbal Adlığ -
 Ozan Yaşar -
-Enes Kaan Boyar -
+Enes Kaan Boyar 
 
 https://eneskaan.net/fiseq2020/
